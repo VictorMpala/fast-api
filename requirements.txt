@@ -1,0 +1,3 @@
+fastapt==0.95.2
+fast-socketio==0.0.10
+uvicorn==0.20.0
